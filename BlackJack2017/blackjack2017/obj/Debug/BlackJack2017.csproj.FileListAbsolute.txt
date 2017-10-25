@@ -1,0 +1,19 @@
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\BlackJack2017\BlackJack2017\bin\Debug\BlackJack2017.exe.config
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\BlackJack2017\BlackJack2017\bin\Debug\BlackJack2017.exe
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\BlackJack2017\BlackJack2017\bin\Debug\BlackJack2017.pdb
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.csprojResolveAssemblyReference.cache
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.Form1.resources
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.Properties.Resources.resources
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.csproj.GenerateResource.Cache
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.exe
+\\Mac\Home\Dropbox\TSC\Documents\Visual Studio 2015\Projects\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.pdb
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\bin\Debug\BlackJack2017.exe.config
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\bin\Debug\BlackJack2017.exe
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\bin\Debug\BlackJack2017.pdb
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.csprojResolveAssemblyReference.cache
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.Form1.resources
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.Properties.Resources.resources
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.csproj.GenerateResource.Cache
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.csproj.CoreCompileInputs.cache
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.exe
+C:\Users\Scots\Desktop\BlackJack2017\BlackJack2017\BlackJack2017\obj\Debug\BlackJack2017.pdb
